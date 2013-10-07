@@ -19,8 +19,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `states`
 --
-CREATE DATABASE IF NOT EXISTS `brf` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
-USE `brf`;
+CREATE DATABASE IF NOT EXISTS `states` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+USE `states`;
 
 -- --------------------------------------------------------
 
