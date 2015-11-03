@@ -186,7 +186,7 @@ INSERT INTO `lga` (`id`, `state_id`, `name`) VALUES
 (147, 8, 'Tarka'),
 (148, 8, 'Ukum'),
 (149, 8, 'Ushongo'),
-(150, 8, 'andeikya'),
+(150, 8, 'Vandeikya'),
 (151, 9, 'Abadam'),
 (152, 9, 'Askira/Uba'),
 (153, 9, 'Bama'),
